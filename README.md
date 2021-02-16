@@ -2,9 +2,11 @@
 Projeto Infraestrutura como código Terraform, Ansible e AWS.
 ## Objetivo:
 1º Desafio
+
 Crie um ambiente na AWS ( use o free-tier ) onde rode uma aplicação Magento/Wordpress (
 qualquer versão de sua escolha ou pode escolher qualquer aplicação que tenha
 familiaridade) - Requisitos :
+
 ● Proxy reverso utilizando Nginx para apontamento na aplicação
 ● Utilização de certificado SSL
 2º Desafio
