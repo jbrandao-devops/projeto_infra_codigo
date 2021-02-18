@@ -42,4 +42,8 @@ Execução:
 
 ● terraform destroy -auto-approve
 
+### Apresentação desafio 02
+1 - Deply proxy reverso NGINX na estrututra da AWS utilizando automação via ANSIBLE.
+
+
 
