@@ -24,22 +24,22 @@ Servidor linux CentOS (VPN)
 
 Acesso a conta AWS
 
---Overview dos script utilizando virtual code.
+-- Overview dos script utilizando virtual code.
 
 Execução:
 
-Cd /desafio-01/terraform-aws-wordpress/
+● Cd /desafio-01/terraform-aws-wordpress/
 
-terraform init
+● terraform init
 
-terraform plan
+●terraform plan
 
-terraform apply -auto-approve
+● terraform apply -auto-approve
 
-APRESENTAÇÃO DO SERVIDOR WORDPRESS
+2 - Apresentação do Servidor Wordpress
 
---Apagar estrutura
+-- Apagar estrutura
 
-terraform destroy -auto-approve
+● terraform destroy -auto-approve
 
 
