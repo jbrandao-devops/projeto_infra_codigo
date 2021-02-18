@@ -17,18 +17,29 @@ Dica: Pode usar docker para subir sua aplicação
 
 ### Apresentação desafio 01
 1 - Deploy do servidor de aplicação WORDPRESS na estrutura AWS utilizando automação via TERRAFORM.
+
 Recursos utilizados:
+
 Servidor linux CentOS (VPN)
+
 Acesso a conta AWS
 
 --Overview dos script utilizando virtual code.
+
 Execução:
+
 Cd /desafio-01/terraform-aws-wordpress/
+
 terraform init
+
 terraform plan
+
 terraform apply -auto-approve
+
 APRESENTAÇÃO DO SERVIDOR WORDPRESS
+
 --Apagar estrutura
+
 terraform destroy -auto-approve
 
 
