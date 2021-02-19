@@ -23,9 +23,9 @@ Dica: Pode usar docker para subir sua aplicação
 
 --- Conectar as vms 209/210 XTERM
 
---- Abrir o aquivos servidores no Vusual Code
+--- Abrir o aquivos servidores no Visual Code
 
---- Abrir DM no segundo monitos para Referências
+--- Abrir README.md no segundo monitos para Referências
 
 1 - Deploy do servidor de aplicação WORDPRESS na estrutura AWS utilizando automação via TERRAFORM.
 
@@ -64,6 +64,8 @@ Executar a playbook: ansible-playbook -i inventory.yml nginx.yml
 ### Apresentação desafio 03
 
 Navegação Jenkins
+
+Obrigado!
 
 
 
