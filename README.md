@@ -17,6 +17,11 @@ Dica: Pode usar docker para subir sua aplicação
 
 ### Apresentação desafio 01
 #### Pré-Requisitos:
+--- Abrir a console da AWS
+--- Acessar a vpn
+--- Conectar as vms 209/210 XTERM
+--- Abrir o aquivos servidores no Vusual Code
+--- Abrir DM no segundo monitos para Referências
 
 1 - Deploy do servidor de aplicação WORDPRESS na estrutura AWS utilizando automação via TERRAFORM.
 
@@ -46,6 +51,12 @@ Execução:
 
 ### Apresentação desafio 02
 1 - Deply proxy reverso NGINX na estrututra da AWS utilizando automação via ANSIBLE.
+Acesso a pasta ansible
+Executar a playbook: ansible-playbook -i inventory.yml nginx.yml
+
+### Apresentação desafio 03
+Navegação Jenkins
+
 
 
 
