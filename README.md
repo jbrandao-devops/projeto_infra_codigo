@@ -23,7 +23,7 @@ Dica: Pode usar docker para subir sua aplicação
 
 --- Conectar as vms 209/210 XTERM
 
---- Abrir o aquivos servidores no Visual Code
+--- Abrir o aquivo servidores no Visual Code
 
 --- Abrir README.md no segundo monitos para Referências
 
