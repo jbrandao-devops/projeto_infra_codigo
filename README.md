@@ -25,7 +25,7 @@ Dica: Pode usar docker para subir sua aplicação
 
 --- Abrir o aquivo servidores no Visual Code
 
---- Abrir README.md no segundo monitos para Referências
+--- Abrir README.md no segundo monitor para Referências
 
 1 - Deploy do servidor de aplicação WORDPRESS na estrutura AWS utilizando automação via TERRAFORM.
 
