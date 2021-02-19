@@ -35,7 +35,7 @@ Servidor linux CentOS (VPN)
 
 Acesso a conta AWS
 
--- Overview dos script utilizando virtual code.
+-- Overview dos script utilizando visual code.
 
 Execução:
 
